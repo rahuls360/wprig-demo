@@ -1,0 +1,8 @@
+{
+  "theme": {
+    "slug": "custom-theme",
+    "name": "Custom Theme",
+    "author": "Rahul makhija",
+    "PHPNamespace": "WP_Rig\\WP_Rig"
+  }
+}
