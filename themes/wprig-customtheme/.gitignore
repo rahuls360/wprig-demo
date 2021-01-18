@@ -24,6 +24,7 @@
 /config/config.local.json
 !/tests/
 !/optional/
+!/src
 
 !.babelrc
 !composer.json
